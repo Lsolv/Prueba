@@ -7,4 +7,4 @@ Este proyecto esta desarrollado para la **Universidad Continental**
 | Header | Title | Title |
 | Paragraph | Text | Title |
 
-![alt text](unicontinental.jpg)
+![logo R&M](descarga.png)
